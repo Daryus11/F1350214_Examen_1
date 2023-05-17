@@ -1,4 +1,4 @@
-	.file	"P2-arreglos.c"
+	.file	"P2_arreglos.c"
 	.def	___main;	.scl	2;	.type	32;	.endef
 	.section .rdata,"dr"
 LC0:
